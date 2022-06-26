@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/est-dao/est-dao.iml" filepath="$PROJECT_DIR$/est-dao/est-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/est-model/est-model.iml" filepath="$PROJECT_DIR$/est-model/est-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/est-service/est-service.iml" filepath="$PROJECT_DIR$/est-service/est-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/est-web/est-web.iml" filepath="$PROJECT_DIR$/est-web/est-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glot.iml" filepath="$PROJECT_DIR$/glot.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="est-dao" />
+        <module name="est-model" />
+        <module name="est-service" />
+        <module name="est-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="est-dao" target="1.8" />
+      <module name="est-model" target="1.8" />
+      <module name="est-service" target="1.8" />
+      <module name="est-web" target="1.8" />
+      <module name="glot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
